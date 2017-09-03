@@ -1,0 +1,1 @@
+Script made long time ago for learning purposes.
